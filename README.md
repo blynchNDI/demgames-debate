@@ -30,6 +30,8 @@
   <a href="#authors">Author(s)</a>
 </p>
 
+> ARCHIVED: This the the old branch that Viet created with create-react-app. :warning: Please do not push more code to this branch.
+
 A full stack (MERN) app that helps users learn how to debate effectively.
 
 ## Documentation
