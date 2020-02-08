@@ -29,6 +29,19 @@
 	opacity: .7;
 	background-color: #f0713d;
 }
+.card-button-purple {
+        background-color: #BB1FCC;
+        opacity: .7;
+}
+.card-button-red {
+        opacity: .7;
+        background-color: #D9360D;
+}
+.card-button-yellow {
+        opacity: .7;
+        background-color: #D9BA1E;
+}
+
 
 .color-change-blue-true {
 	opacity: 1;
@@ -39,6 +52,21 @@
 .color-change-orange-true {
 	opacity: 1;
 }
+.color-change-purple-true {
+        opacity: 1;
+}
+.color-change-yellow-true {
+        opacity: 1;
+}
+.color-change-red-true {
+        opacity: 1;
+}
+
+
+
+
+
+
 
 @media (min-width: 1024px) {
 	.card-button {

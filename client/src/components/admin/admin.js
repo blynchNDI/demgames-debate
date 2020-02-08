@@ -248,7 +248,10 @@ class Admin extends Component {
 	{ id: "", title: "Select Game Color" },
         { id: "green", title: "Green" },
         { id: "blue", title: "Blue" },
-        { id: "orange", title: "Orange" }
+        { id: "orange", title: "Orange" },
+        { id: "red", title: "Red" },
+        { id: "yellow", title: "Yellow" },
+        { id: "purple", title: "Purple" }
       ],
       value: "",
       editable: true
